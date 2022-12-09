@@ -7,13 +7,14 @@
 * [Edge](https://www.microsoft.com/en-us/edge?ch&form=MA13FJ)
 
 ## Browser Extensions
-### Chromium based Browsers
+
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 * [bitly | powerful short links](https://chrome.google.com/webstore/detail/bitly-powerful-short-link/iabeihobmhlgpkcgjiloemdbofjbdcic)
+* [Otto – Pomodoro timer and website blocker](https://chrome.google.com/webstore/detail/otto-%E2%80%93-pomodoro-timer-and/jbojhemhnilgooplglkfoheddemkodld)
 * [Google Translator](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
 ## IDE
@@ -44,7 +45,6 @@ brew install git
 git -v
 ```
 * [docker](https://docs.docker.com/docker-for-mac/install/)
-* 
 ```
 docker-compose
  pip3 install docker-compose
