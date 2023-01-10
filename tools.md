@@ -16,6 +16,8 @@
 * [bitly | powerful short links](https://chrome.google.com/webstore/detail/bitly-powerful-short-link/iabeihobmhlgpkcgjiloemdbofjbdcic)
 * [Otto – Pomodoro timer and website blocker](https://chrome.google.com/webstore/detail/otto-%E2%80%93-pomodoro-timer-and/jbojhemhnilgooplglkfoheddemkodld)
 * [Google Translator](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+* [Todoist for chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh)
+
 
 ## IDE
 ### [VSCode](https://code.visualstudio.com/docs/setup/mac)
